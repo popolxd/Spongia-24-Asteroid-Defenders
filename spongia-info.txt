@@ -1,0 +1,10 @@
+Názov tímu: Moris
+Názov hry: Asteroid Defenders
+Vývojové prostredie a prostriedky: Visual Studio Code, C, Raylib
+
+Obrázky a Hudba: vlastné
+
+Zvukové efekty:
+Zdroj všetkých: https://pixabay.com/sk/music/
+Autory: Pixabay, Jurij, floraphonic, UNIVERSFIELD
+bez licencných poplatkov

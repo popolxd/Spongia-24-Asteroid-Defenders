@@ -1,0 +1,24 @@
+Cieľ hry: Prežiť čo najdlhšie
+Gameplay: Pomocou stavania rôznych budov na asteroide musíte zabrátiť zničenie hlavnej budovy (Main building).
+
+Posádka: kliknutím na ikonku radaru (alebo stlačením esc) na panele vpravo budete môcť vidieť, kde sa vaša posádka nachádza a môžete ju ovládať ale nebudete môcť stavať nové budovy.
+Opatovným kliknutím sa vrátite na pôvodný stav. Farba človeka ukazuje, koľko má životov. Červená farba znamená málo, Zelená veľa.
+Ak chcete presunúť človeka z jedného miesta na druhé, tak stačí kliknúť naňho, a potom budovu svojej voľby.
+Ak sa nachádza človek v nejakej budove tak ju buď opravuje, alebo zlepšuje jej výkon. (Delá strielajú rýchlejšie, Mine rýchlejšie ťaží suroviny)
+Výnimka: Heal - tam sa človek regeneruje, Main building - nerobí nič, dá sa ju iba opravovať
+
+Budovy:
+Delia na obranné a pomocné.
+Obranné (delá): Chaingun, Laser, Blaster
+Pomocné: Generátor - vyrába elekrinu, Heal - lieči posádku, Mine a Printer - ťažia a vyrábajú suroviny, za ktoré sa stavajú budovy
+Dajú sa stavať iba vedľa už existujúcich budov.
+Každá budova potrebuje elektrinu na fungovanie. Ak jej nie je dosť (-1 a menej), tak každá budova bude fungovať o polovicu pomalšie.
+V rohu každej budovy môžete vidieť percentá od 0 po 100, ukazuje to, koľko percent života ostáva danej budove.
+Budova funguje na plný výkon, aj keď má iba napr. 10% života. Ak ju raz ale neprijatelia úplne zničia, tak ostane nefunkčná, až dokým ju posádka neopraví na 100% života.
+
+Neprijatelia:
+Mimozemštania: Klasickí nepriatelia, treba ich zabiť delami.
+Vesmírne lode: Nedajú sa zničiť, ale po istej chvíli zmiznú, treba len vydržať ich útok. Prichádzajú až v druhej vlne
+
+Tip: Na začiatku hry je dosť dôležité postaviť si jedno delo a Mine.
+Stačením delete vypnete hru
